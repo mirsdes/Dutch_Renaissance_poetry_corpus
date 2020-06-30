@@ -47,7 +47,7 @@ gi/1 die/0 dit/0 best/1 unt/0 dect/1 en/0 ant/1 woort/0 op/0 de/0 vra/1 ge/0 *
 jn/0 ne/1 der/0 lant/1 sche/0 spraec/1 en/0 maet/1 van/0 outs/1 ge/0 woon/1 *
 vint/0 u/1 ten/0 tween/1 naer/0 nuen/1 in/0 thuys/1 jans/0 mar/1 cus/0 zoon/1 *
 waert/0 in/1 den/0 cluuc/1 ken/0 leeu/1 rechts/0 voor/1 de/0 gro/1 te/0 wa/1 ge/0 *
-daer/0 leest/1 u/0 ei/1 gen/0 werc/1 in/0 tspre/1 ken/0 zijt/1 niet/0 tra/1 ge/0 *
+daer/0 leest/1 u/0 ei/1 gen/0 werc/1 in/0 t/3 spre/1 ken/0 zijt/1 niet/0 tra/1 ge/0 *
 ghi/1 zult/0 bo/1 ven/0 grot/0 eer/1 unt/0 fan/1 gen/0 daer/1 te/0 loon/1 *
 een/0 be/1 ker/0 o/1 ver/0 dect/1 ge/0 wrocht/1 van/0 tin/1 zeer/0 schoon/1 *
 die/0 fraeyst/1 van/0 uyt/1 spraec/0 es/0 zal/0 win/1 nen/0 in/1 dien/0 da/1 ge/0 *
