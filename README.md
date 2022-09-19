@@ -14,7 +14,7 @@ In the annotation folder, the poems are annotated according to the following ann
 
 lines_augmentation.csv contains lines generated with data augmentation. The type of data augmentation used here exploits the orthographic variance attested in the corpus (since Dutch had not achieved standardisation in this period yet, several spelling diffences can be noticed among authors or even within works by the same poet). Sentences which contained words with different possible spellings were duplicated and both versions included in the training material. 
 
-#License
+# License
 
 CC-BY-SA
 
