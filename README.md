@@ -18,6 +18,6 @@ lines_augmentation.csv contains lines generated with data augmentation. The type
 
 CC-BY-SA
 
-Please, when cite this resource, mention: 
+Please, when citing this resource, mention: 
 De Sisto Mirella. 2020. The interaction between phonology and metre. Approaches to Romance
 and West-Germanic Renaissance metre. Amsterdam: LOT publishing. PhD dissertation.
